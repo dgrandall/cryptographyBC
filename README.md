@@ -1,2 +1,2 @@
 # cryptographyBC
-making cryptographic Algorithms more user friendly 
+making cryptographic algorithms more user friendly 
